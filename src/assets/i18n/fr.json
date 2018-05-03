@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "titre" : "Kiwi Lifestyle",
+    "navigation" : {
+      "home-navigation": "Home",
+      "lifestyle-navigation": "Lifestyle",
+      "voyage-navigation": "Voyages",
+      "adresses-navigation": "Adresses"
+    }
+  }
+}
